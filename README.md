@@ -44,7 +44,7 @@
 <br/>
 
 <p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kbutsho&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> 
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kbutsho's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kbutsho&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> 
 </p>
 
 <!-- ## 📊 My Github Stats -->
@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-<img alt="Kaushik Biswas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Kaushik Biswas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kbutsho&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 <br/>
 <br/>
@@ -78,4 +78,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/kbutsho?tab=followers"><img src="https://img.shields.io/github/followers/kbutsho?label=Followers&style=social" alt="GitHub Badge"></a>
