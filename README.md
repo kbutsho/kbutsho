@@ -4,7 +4,10 @@
 <h3 align="center">A passionate Full Stack web Developer.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kbutsho">
+</a>
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
