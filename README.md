@@ -45,25 +45,25 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/icons/css.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/icons/python.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/icons/c.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/icons/cpp.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/HTML.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/css.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/JavaScript.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/python.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/c.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/cpp.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/icons/react.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/icons/firebase.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/react.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/redux.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/sass.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/tailwind.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/Bootsrap.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/firebase.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/icons/node.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/icons/express.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/icons/mongo.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/node.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/express.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/mongo.png"/>
 </p><br/>
 
 
