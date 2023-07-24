@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[kbutsho.com](https://kbutsho.netlify.app)**
+- 👨‍💻 All of my projects are available at **[kbutsho.com](https://kbutsho.vercel.app)**
 
 - 📫 How to reach me **kbutsho@gmail.com**
 
@@ -43,9 +43,9 @@
 <img src="https://github.com/kbutsho/kbutsho/blob/main/images/node.png"/>
 <img src="https://github.com/kbutsho/kbutsho/blob/main/images/express.png"/>
 <img src="https://github.com/kbutsho/kbutsho/blob/main/images/mongo.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/laravel.png" style="height: 60px; width: 60px; margin: 0 20px"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/php.png" style="height: 60px; width: 60px; margin: 0 20px"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/mysql.png" style="height: 60px; width: 60px; margin: 0 20px"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/laravel.png" style="height: 60px; width: 60px"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/php.png" style="height: 60px; width: 60px"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/mysql.png" style="height: 60px; width: 60px"/>
 </p><br/>
 <br/>
 
