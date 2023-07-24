@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kaushik Biswas</h1>
-<h3 align="center">A passionate Full Stack web Developer.</h3>
+<h3 align="center">A passionate Software Engineer.</h3>
 
 
 ## 🙋‍♂️ About Me 
@@ -16,13 +16,13 @@
 
 - 👨‍💻 All of my projects are available at **[kbutsho.com](https://kbutsho.netlify.app)**
 
-- 📫 How to reach me **kbutsho@yahoo.com**
+- 📫 How to reach me **kbutsho@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I love to learn new technology**
 
 ## 🚀 Languages and Tools:
 
-<p align="center"> 
+<p align="center" style="padding: 0 20px"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
