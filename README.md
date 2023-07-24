@@ -44,7 +44,7 @@
 <img src="https://github.com/kbutsho/kbutsho/blob/main/images/express.png"/>
 <img src="https://github.com/kbutsho/kbutsho/blob/main/images/mongo.png"/>
 <img src="https://github.com/kbutsho/kbutsho/blob/main/images/laravel.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/php.jpg" />
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/php.png" />
 <img src="https://github.com/kbutsho/kbutsho/blob/main/images/mysql.png"/>
 </p><br/>
 <br/>
