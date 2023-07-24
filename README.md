@@ -43,9 +43,9 @@
 <img src="https://github.com/kbutsho/kbutsho/blob/main/images/node.png"/>
 <img src="https://github.com/kbutsho/kbutsho/blob/main/images/express.png"/>
 <img src="https://github.com/kbutsho/kbutsho/blob/main/images/mongo.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/laravel.png"/>
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/php.png" />
-<img src="https://github.com/kbutsho/kbutsho/blob/main/images/mysql.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/laravel.png" style="height: 60px; width: 60px"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/php.png" style="height: 60px; width: 60px"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/mysql.png" style="height: 60px; width: 60px"/>
 </p><br/>
 <br/>
 
