@@ -64,6 +64,8 @@
 <img src="https://github.com/kbutsho/kbutsho/blob/main/images/node.png"/>
 <img src="https://github.com/kbutsho/kbutsho/blob/main/images/express.png"/>
 <img src="https://github.com/kbutsho/kbutsho/blob/main/images/mongo.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/laravel.png"/>
+<img src="https://github.com/kbutsho/kbutsho/blob/main/images/php.jpg"/>
 </p><br/>
 
 
