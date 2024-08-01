@@ -80,7 +80,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/kbutsho/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kbutsho">
 </a>
 <a href="https://github.com/kbutsho?tab=followers"><img src="https://img.shields.io/github/followers/kbutsho?label=Followers&style=social" alt="GitHub Badge"></a>
