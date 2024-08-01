@@ -3,12 +3,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kaushik Biswas</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
+## 🙋‍♂️ About Me
 
-## 🙋‍♂️ About Me 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kbutsho">
 </a>
-
 
 - 🌱 I’m currently learning **TypeScript**
 
@@ -57,25 +56,6 @@
 
   <br/>
 
-  ### :computer: Coding Stats (Tracked)
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 757 hrs 37 mins
-
-JavaScript                 299 hrs 9 mins  ███████▒░░░░░░░░░░░░░░░░░   29.99 %
-PHP                        264 hrs 25 mins ██████▓░░░░░░░░░░░░░░░░░░   26.27 %
-TypeScript                 66 hrs 47 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-Python                     39 hrs 27 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-Java                       36 hrs 22 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-HTML                       29 hrs 15 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-JSON                       20 hrs 32 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-C#                        17 hrs 17 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-YAML                       10 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Docker                     8 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-```
-
-
   <img alt="kb utshos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbutsho&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -99,6 +79,7 @@ Docker                     8 hrs 59 mins   ▒░░░░░░░░░░░�
 </p> -->
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kbutsho">
 </a>
