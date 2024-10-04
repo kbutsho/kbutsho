@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=kbutsho">
 </a>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
