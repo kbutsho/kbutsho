@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kaushik Biswas</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Mee
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kbutsho">
