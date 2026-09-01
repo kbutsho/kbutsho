@@ -23,7 +23,7 @@
   <tr>
     <td>🎓&nbsp;<b>Education</b></td>
     <td>
-      <b>M.Sc. in Computer Science</b> — Intelligent Systems, AIUB &nbsp;·&nbsp; <code>CGPA 3.94</code><br/>
+      <b>M.Sc. in CS</b> — Intelligent Systems, AIUB &nbsp;·&nbsp; <code>CGPA 3.94</code><br/>
       <b>B.Sc. in CSE</b> — Software Engineering, AIUB &nbsp;·&nbsp; <code>CGPA 3.88</code>
     </td>
   </tr>
@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>🌱&nbsp;<b>Learning</b></td>
-    <td>TypeScript and cleaner application architecture</td>
+    <td>Django and cleaner application architecture</td>
   </tr>
   <tr>
     <td>📫&nbsp;<b>Reach me</b></td>
@@ -208,7 +208,7 @@
 ### 🧑‍💻 &nbsp;Personal Portfolio &amp; Content CRM
 
 <a href="https://kbutsho-v2.vercel.app">
-  <img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-01.png" alt="Portfolio — public site"/>
+  <img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-02.png" alt="Portfolio — admin dashboard"/>
 </a>
 
 <p>
@@ -227,7 +227,7 @@
 <details>
 <summary><b>📸 More screenshots</b></summary>
 <br/>
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-02.png" alt="Admin dashboard"/>
+<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-01.png" alt="Public portfolio site"/>
 <img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-03.png" alt="Project manager"/>
 <img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-04.png" alt="Category manager"/>
 <img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-05.png" alt="Technology manager"/>
