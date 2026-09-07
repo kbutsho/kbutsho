@@ -140,11 +140,12 @@
 
 ### 📦 &nbsp;Inventory &amp; Fulfillment Platform
 
-<p align="center">
-  <a href="https://wh.myshippingmanager.com/login">
-    <img width="75%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-02.png" alt="Inventory & Fulfillment Platform — Order Management"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%"><a href="https://wh.myshippingmanager.com/login"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-02.png" alt="Inventory & Fulfillment Platform — Order Management"/></a></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-03.png" alt="Shipment Management"/></td>
+  </tr>
+</table>
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
@@ -167,16 +168,12 @@
 <br/>
 <table>
   <tr>
-    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-03.png" alt="Shipment Management"/></td>
-    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-04.png" alt="Product / SKU Management"/></td>
-    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-01.png" alt="Billing & Invoices"/></td>
-    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-06.png" alt="Integration Settings"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-04.png" alt="Product / SKU Management"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-01.png" alt="Billing & Invoices"/></td>
   </tr>
   <tr>
-    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-05.png" alt="User & role management"/></td>
-    <td width="25%"></td>
-    <td width="25%"></td>
-    <td width="25%"></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-06.png" alt="Integration Settings"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-05.png" alt="User & role management"/></td>
   </tr>
 </table>
 </details>
@@ -187,9 +184,12 @@
 
 ### 🏛️ &nbsp;D-Nothi — Government Licensing &amp; Digital File Workflow
 
-<p align="center">
-  <img width="75%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/dnothi/dnothi-02.png" alt="D-Nothi — Applicant Dashboard"/>
-</p>
+<table>
+  <tr>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/dnothi/dnothi-02.png" alt="D-Nothi — Applicant Dashboard"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/dnothi/dnothi-03.png" alt="Citizen services list"/></td>
+  </tr>
+</table>
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
@@ -208,8 +208,8 @@
 <br/>
 <table>
   <tr>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/dnothi/dnothi-03.png" alt="Citizen services list"/></td>
     <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/dnothi/dnothi-01.png" alt="Login with captcha"/></td>
+    <td width="50%"></td>
   </tr>
 </table>
 </details>
@@ -220,11 +220,12 @@
 
 ### ⛽ &nbsp;Fuel Distribution Monitoring System (FMS)
 
-<p align="center">
-  <a href="https://fms.gov.bd/login">
-    <img width="75%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-01.png" alt="FMS — Dashboard Overview"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%"><a href="https://fms.gov.bd/login"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-01.png" alt="FMS — Dashboard Overview"/></a></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-02.png" alt="Reports & Analytics"/></td>
+  </tr>
+</table>
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
@@ -244,9 +245,8 @@
 <br/>
 <table>
   <tr>
-    <td width="33%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-02.png" alt="Reports & Analytics"/></td>
-    <td width="33%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-03.png" alt="DC Office management"/></td>
-    <td width="33%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-04.png" alt="FMS login"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-03.png" alt="DC Office management"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-04.png" alt="FMS login"/></td>
   </tr>
 </table>
 </details>
@@ -257,11 +257,12 @@
 
 ### 🧑‍💻 &nbsp;Personal Portfolio &amp; Content CRM
 
-<p align="center">
-  <a href="https://kbutsho-v2.vercel.app">
-    <img width="75%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-02.png" alt="Portfolio — admin dashboard"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%"><a href="https://kbutsho-v2.vercel.app"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-02.png" alt="Portfolio — admin dashboard"/></a></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-01.png" alt="Public portfolio site"/></td>
+  </tr>
+</table>
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -281,10 +282,12 @@
 <br/>
 <table>
   <tr>
-    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-01.png" alt="Public portfolio site"/></td>
-    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-03.png" alt="Project manager"/></td>
-    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-04.png" alt="Category manager"/></td>
-    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-05.png" alt="Technology manager"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-03.png" alt="Project manager"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-04.png" alt="Category manager"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-05.png" alt="Technology manager"/></td>
+    <td width="50%"></td>
   </tr>
 </table>
 </details>
@@ -316,12 +319,21 @@
 
 <table>
   <tr>
-    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-01.png" alt="Prize Bond Matcher — Dashboard"/></td>
-    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-02.png" alt="Prize Bond Matcher — Draw results"/></td>
-    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-03.png" alt="Prize Bond Matcher — Admin PDF upload"/></td>
-    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-04.png" alt="Prize Bond Matcher — Public draw page"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-01.png" alt="Prize Bond Matcher — Dashboard"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-02.png" alt="Prize Bond Matcher — Draw results"/></td>
   </tr>
 </table>
+
+<details>
+<summary><b>📸 More screenshots</b></summary>
+<br/>
+<table>
+  <tr>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-03.png" alt="Prize Bond Matcher — Admin PDF upload"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-04.png" alt="Prize Bond Matcher — Public draw page"/></td>
+  </tr>
+</table>
+</details>
 
 ## 🎓 Certifications
 
