@@ -107,6 +107,23 @@
 
 ---
 
+
+## 📊 GitHub Stats
+
+<!-- <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kbutsho&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbutsho&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
+</p> -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kbutsho&hide_border=true&theme=tokyonight"/>
+</p>
+
+<!-- <p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kbutsho&theme=tokyo-night&hide_border=true&area=true"/>
+</p> -->
+
+
 ## 🧩 Featured Projects
 
 <!-- ─────────────────────────  PROJECT 1  ───────────────────────── -->
@@ -232,25 +249,6 @@
 <img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-04.png" alt="Category manager"/>
 <img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-05.png" alt="Technology manager"/>
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kbutsho&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbutsho&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kbutsho&hide_border=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kbutsho&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
 
 ## 🎓 Certifications
 
