@@ -125,9 +125,9 @@
   <img src="https://streak-stats.demolab.com?user=kbutsho&hide_border=true&theme=tokyonight"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kbutsho&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kbutsho&theme=tokyo-night&hide_border=true&area=true"/>
