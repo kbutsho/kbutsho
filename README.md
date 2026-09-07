@@ -49,6 +49,13 @@
 - 💳 I ship real money flows: **Stripe, PayPal, Square, Zelle & ACH**, plus **AWS S3** storage and **2FA**.
 - 🏛️ My work runs in production for **government licensing, fuel monitoring and warehouse fulfillment**.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Production_Apps-5%2B-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Filling_Stations_Tracked-2%2C287%2B-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Payment_Gateways-5-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Govt_License_Services-11-6366F1?style=for-the-badge"/>
+</p>
+
 ---
 
 ## 🚀 Tech Stack
@@ -119,6 +126,10 @@
   <img src="https://streak-stats.demolab.com?user=kbutsho&hide_border=true&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kbutsho&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+</p>
+
 <!-- <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kbutsho&theme=tokyo-night&hide_border=true&area=true"/>
 </p> -->
@@ -130,9 +141,11 @@
 
 ### 📦 &nbsp;Inventory &amp; Fulfillment Platform
 
-<a href="https://wh.myshippingmanager.com/login">
-  <img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-02.png" alt="Inventory & Fulfillment Platform — Order Management"/>
-</a>
+<p align="center">
+  <a href="https://wh.myshippingmanager.com/login">
+    <img width="75%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-02.png" alt="Inventory & Fulfillment Platform — Order Management"/>
+  </a>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
@@ -175,7 +188,9 @@
 
 ### 🏛️ &nbsp;D-Nothi — Government Licensing &amp; Digital File Workflow
 
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/dnothi/dnothi-02.png" alt="D-Nothi — Applicant Dashboard"/>
+<p align="center">
+  <img width="75%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/dnothi/dnothi-02.png" alt="D-Nothi — Applicant Dashboard"/>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
@@ -206,9 +221,11 @@
 
 ### ⛽ &nbsp;Fuel Distribution Monitoring System (FMS)
 
-<a href="https://fms.gov.bd/login">
-  <img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-01.png" alt="FMS — Dashboard Overview"/>
-</a>
+<p align="center">
+  <a href="https://fms.gov.bd/login">
+    <img width="75%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-01.png" alt="FMS — Dashboard Overview"/>
+  </a>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
@@ -244,9 +261,11 @@
 
 ### 🧑‍💻 &nbsp;Personal Portfolio &amp; Content CRM
 
-<a href="https://kbutsho-v2.vercel.app">
-  <img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-02.png" alt="Portfolio — admin dashboard"/>
-</a>
+<p align="center">
+  <a href="https://kbutsho-v2.vercel.app">
+    <img width="75%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-02.png" alt="Portfolio — admin dashboard"/>
+  </a>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
