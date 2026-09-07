@@ -47,7 +47,6 @@
 
 - 🏗️ I own features **end to end** — database design, backend business logic and the UI on top of it.
 - 💳 I ship real money flows: **Stripe, PayPal, Square, Zelle & ACH**, plus **AWS S3** storage and **2FA**.
-- 🏛️ My work runs in production for **government licensing, fuel monitoring and warehouse fulfillment**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Production_Apps-5%2B-6366F1?style=for-the-badge"/>
@@ -168,16 +167,16 @@
 <br/>
 <table>
   <tr>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-03.png" alt="Shipment Management"/></td>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-04.png" alt="Product / SKU Management"/></td>
+    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-03.png" alt="Shipment Management"/></td>
+    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-04.png" alt="Product / SKU Management"/></td>
+    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-01.png" alt="Billing & Invoices"/></td>
+    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-06.png" alt="Integration Settings"/></td>
   </tr>
   <tr>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-01.png" alt="Billing & Invoices"/></td>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-06.png" alt="Integration Settings"/></td>
-  </tr>
-  <tr>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-05.png" alt="User & role management"/></td>
-    <td width="50%"></td>
+    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-05.png" alt="User & role management"/></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
   </tr>
 </table>
 </details>
@@ -245,12 +244,9 @@
 <br/>
 <table>
   <tr>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-02.png" alt="Reports & Analytics"/></td>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-03.png" alt="DC Office management"/></td>
-  </tr>
-  <tr>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-04.png" alt="FMS login"/></td>
-    <td width="50%"></td>
+    <td width="33%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-02.png" alt="Reports & Analytics"/></td>
+    <td width="33%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-03.png" alt="DC Office management"/></td>
+    <td width="33%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-04.png" alt="FMS login"/></td>
   </tr>
 </table>
 </details>
@@ -285,12 +281,10 @@
 <br/>
 <table>
   <tr>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-01.png" alt="Public portfolio site"/></td>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-03.png" alt="Project manager"/></td>
-  </tr>
-  <tr>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-04.png" alt="Category manager"/></td>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-05.png" alt="Technology manager"/></td>
+    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-01.png" alt="Public portfolio site"/></td>
+    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-03.png" alt="Project manager"/></td>
+    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-04.png" alt="Category manager"/></td>
+    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-05.png" alt="Technology manager"/></td>
   </tr>
 </table>
 </details>
@@ -322,12 +316,10 @@
 
 <table>
   <tr>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-01.png" alt="Prize Bond Matcher — Dashboard"/></td>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-02.png" alt="Prize Bond Matcher — Draw results"/></td>
-  </tr>
-  <tr>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-03.png" alt="Prize Bond Matcher — Admin PDF upload"/></td>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-04.png" alt="Prize Bond Matcher — Public draw page"/></td>
+    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-01.png" alt="Prize Bond Matcher — Dashboard"/></td>
+    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-02.png" alt="Prize Bond Matcher — Draw results"/></td>
+    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-03.png" alt="Prize Bond Matcher — Admin PDF upload"/></td>
+    <td width="25%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-04.png" alt="Prize Bond Matcher — Public draw page"/></td>
   </tr>
 </table>
 
