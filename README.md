@@ -153,11 +153,20 @@
 <details>
 <summary><b>📸 More screenshots</b></summary>
 <br/>
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-03.png" alt="Shipment Management"/>
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-04.png" alt="Product / SKU Management"/>
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-01.png" alt="Billing & Invoices"/>
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-06.png" alt="Integration Settings"/>
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-05.png" alt="User & role management"/>
+<table>
+  <tr>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-03.png" alt="Shipment Management"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-04.png" alt="Product / SKU Management"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-01.png" alt="Billing & Invoices"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-06.png" alt="Integration Settings"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/inventory/inventory-05.png" alt="User & role management"/></td>
+    <td width="50%"></td>
+  </tr>
+</table>
 </details>
 
 <br/>
@@ -183,8 +192,12 @@
 <details>
 <summary><b>📸 More screenshots</b></summary>
 <br/>
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/dnothi/dnothi-03.png" alt="Citizen services list"/>
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/dnothi/dnothi-01.png" alt="Login with captcha"/>
+<table>
+  <tr>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/dnothi/dnothi-03.png" alt="Citizen services list"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/dnothi/dnothi-01.png" alt="Login with captcha"/></td>
+  </tr>
+</table>
 </details>
 
 <br/>
@@ -213,9 +226,16 @@
 <details>
 <summary><b>📸 More screenshots</b></summary>
 <br/>
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-02.png" alt="Reports & Analytics"/>
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-03.png" alt="DC Office management"/>
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-04.png" alt="FMS login"/>
+<table>
+  <tr>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-02.png" alt="Reports & Analytics"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-03.png" alt="DC Office management"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/fms/fms-04.png" alt="FMS login"/></td>
+    <td width="50%"></td>
+  </tr>
+</table>
 </details>
 
 <br/>
@@ -244,11 +264,53 @@
 <details>
 <summary><b>📸 More screenshots</b></summary>
 <br/>
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-01.png" alt="Public portfolio site"/>
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-03.png" alt="Project manager"/>
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-04.png" alt="Category manager"/>
-<img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-05.png" alt="Technology manager"/>
+<table>
+  <tr>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-01.png" alt="Public portfolio site"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-03.png" alt="Project manager"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-04.png" alt="Category manager"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/portfolio/portfolio-05.png" alt="Technology manager"/></td>
+  </tr>
+</table>
 </details>
+
+<br/>
+
+<!-- ─────────────────────────  PROJECT 5  ───────────────────────── -->
+
+### 🎫 &nbsp;Prize Bond Matcher
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bcrypt-338033?style=flat-square"/>
+  <img src="https://img.shields.io/badge/pdf--parse-B30B00?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
+  &nbsp;<a href="https://prize-bond-matcher.vercel.app/"><img src="https://img.shields.io/badge/Live_Site-22C55E?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+</p>
+
+- Saves a user's Bangladeshi prize bond numbers once and auto-matches them against every Bangladesh Bank quarterly draw — no more manual cross-checking dozens of numbers by hand.
+- Encodes the real "single system" draw rule: one set of winning numbers across 5 prize tiers applies to every series, so matching is done on the numeric portion alone.
+- Admins upload the official draw-result PDF directly; the backend parses it with **`pdf-parse`** to auto-extract the draw number, date and all 5 tiers (manual entry as fallback).
+- Public, no-login draw pages for every result, plus the official series-matching, 60-day eligibility and 20% tax-withholding rules pulled from the gazette text.
+- Phone-number-based auth for users and separate email login for admins, secured with **JWT** and **bcrypt**; dashboard tracks numbers saved, draws checked and live matches found.
+
+<table>
+  <tr>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-01.png" alt="Prize Bond Matcher — Dashboard"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-02.png" alt="Prize Bond Matcher — Draw results"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-03.png" alt="Prize Bond Matcher — Admin PDF upload"/></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/kbutsho/kbutsho/main/images/prize-bond/prize-bond-04.png" alt="Prize Bond Matcher — Public draw page"/></td>
+  </tr>
+</table>
 
 ## 🎓 Certifications
 
